@@ -1,0 +1,22 @@
+{
+  "name": "@vandeurenglenn/parse-bytes",
+  "version": "1.0.1",
+  "description": "",
+  "type": "module",
+  "files": [
+    "index.js",
+    "index.d.ts"
+  ],
+  "exports": {
+    ".": {
+      "import": "./index.js",
+      "types": "./index.d.ts"
+    }
+  },
+  "scripts": {
+    "test": "node test.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT"
+}
